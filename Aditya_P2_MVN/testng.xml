@@ -7,6 +7,7 @@
 			<class name="p2.ClassB"></class>
 			<class name="p3.ClassC"></class>
 			<class name="p4.ClassD"></class>
+			<class name="p5.ClassE"></class>
 		</classes>
 	</test>
 </suite>
